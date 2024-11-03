@@ -140,6 +140,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="cetvrti_tocni.cpp" />
+    <ClCompile Include="drugi.cpp" />
+    <ClCompile Include="prvi.cpp" />
+    <ClCompile Include="treci.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header.h" />

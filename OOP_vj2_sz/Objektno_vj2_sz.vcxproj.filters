@@ -18,6 +18,15 @@
     <ClCompile Include="cetvrti_tocni.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="drugi.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="prvi.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="treci.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header.h">

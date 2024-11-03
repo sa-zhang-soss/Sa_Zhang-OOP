@@ -18,6 +18,7 @@ typedef struct vector {
 	void push_back(int el) {
 		if (actual_size == logical_size) {
 			int* new_array = new int[logical_size * 2];
+			logical_size *= 2;
 
 			for (int i = 0; i < actual_size; i++) {
 				new_array[i] = array[i];
