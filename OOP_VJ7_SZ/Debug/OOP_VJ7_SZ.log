@@ -1,0 +1,5 @@
+﻿  main.cpp
+  VirtualPet.cpp
+C:\Users\Korisnik\Desktop\skola\Objektno\Sa_Zhang-OOP\OOP_VJ7_SZ\VirtualPet.cpp(13,8): warning C4553: '==': result of expression not used; did you intend '='?
+  Generating Code...
+  OOP_VJ7_SZ.vcxproj -> C:\Users\Korisnik\Desktop\skola\Objektno\Sa_Zhang-OOP\OOP_VJ7_SZ\Debug\OOP_VJ7_SZ.exe

@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Korisnik\Desktop\skola\Objektno\Sa_Zhang-OOP\OOP_VJ5_SZ\header.hpp(49,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Korisnik\Desktop\skola\Objektno\Sa_Zhang-OOP\OOP_VJ5_SZ\header.hpp(50,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Korisnik\Desktop\skola\Objektno\Sa_Zhang-OOP\OOP_VJ5_SZ\header.hpp(104,21): warning C4018: '<': signed/unsigned mismatch
+  OOP_VJ5_SZ.vcxproj -> C:\Users\Korisnik\Desktop\skola\Objektno\Sa_Zhang-OOP\OOP_VJ5_SZ\Debug\OOP_VJ5_SZ.exe
